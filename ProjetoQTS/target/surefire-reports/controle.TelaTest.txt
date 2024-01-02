@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: controle.TelaTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 1.983 s <<< FAILURE! - in controle.TelaTest
+controle.TelaTest  Time elapsed: 1.979 s  <<< ERROR!
+java.lang.NullPointerException
+	at controle.TelaTest.setUpClass(TelaTest.java:33)
+
